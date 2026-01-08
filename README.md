@@ -1,0 +1,75 @@
+# Oasis – Slide Away
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+slide away
+and give it all you got
+mine today, fell in from the top
+I dream of you
+and all the things you say
+I wonder were you are now
+hold me down
+all the worlds asleep
+need you now
+you knocked me off my feet
+I dream of you
+and we talked of growing old
+but you said please don't
+slidin' baby
+together we'll fly
+I tried prayin'
+but I don't what you say to me
+but now that you're mine
+we'll find a way
+of chasing the sun
+let me be the one
+who shines with you
+in the morning
+we don't know what to do
+do what we can
+we'll find a way
+do what we done
+let me be the one
+who shines with you
+and let me slide away
+slide away slide away away
+<♪>
+slide away
+give it all you got
+mine today, fell in from the top
+I dream of you
+and all the things you say
+I wonder were you are now
+slidin' baby together we'll fly
+I tried prayin'
+and I know just
+what you say to me
+now that you're mine
+we'll find a way
+of chasing the sun
+let me be the one
+who shines with you
+in the morning
+we don't know what to do
+do what we can
+we'll find a way
+do what we done
+oh let me be the one
+who shines with you
+and we can slide away
+slide away slide away
+slide away slide away
+slide away slide away
+slide away slide away
+<♪>
+don't know, don't care
+you can take me there
+don't know, don't care
+all I know is that
+slide away slide away
+slide away slide away
+slide away slide away
+slide away slide away
+slide away slide away
+```
