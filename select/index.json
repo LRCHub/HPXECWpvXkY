@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Slide Away",
+  "base_artist": "Oasis",
+  "createdAt": "2026-01-08T07:19:37.653582Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Slide Away",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/01_Slide_Away_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Slide Away",
+      "artist": "Noel Gallagher",
+      "has_synced": true,
+      "path": "select/02_Slide_Away_Noel_Gallagher.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Slide Away",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/03_Slide_Away_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Slide Away",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/04_Slide_Away_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Slide Away (Live at Knebworth, 11 August '96)",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/05_Slide_Away_(Live_at_Knebworth,_11_August_'96)_Oasis.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Slide Away (Live at Knebworth)",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/06_Slide_Away_(Live_at_Knebworth)_Oasis.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Slide Away",
+      "artist": "The Dirty Youth",
+      "has_synced": false,
+      "path": "select/07_Slide_Away_The_Dirty_Youth.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Slide Away",
+      "artist": "Puddle of Mudd",
+      "has_synced": true,
+      "path": "select/08_Slide_Away_Puddle_of_Mudd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Slide Away",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/09_Slide_Away_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Slide Away",
+      "artist": "Verve",
+      "has_synced": false,
+      "path": "select/10_Slide_Away_Verve.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Slide Away",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/11_Slide_Away_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Slide Away",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/12_Slide_Away_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Slide Away",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/13_Slide_Away_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Slide Away (2016 Remastered)",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/14_Slide_Away_(2016_Remastered)_The_Verve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Slide Away",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/pl_01_Slide_Away_Oasis.txt"
+    }
+  ]
+}
